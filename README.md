@@ -1,2 +1,2 @@
 # retry
-retry tool in golang 
+simple library for retry mechanism in golang
